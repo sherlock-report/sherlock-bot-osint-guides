@@ -10,6 +10,17 @@
 
 Начните с обзора нужной темы, затем переходите к практическим инструкциям. Каждая статья решает отдельную задачу. Каталог не устанавливает тарифы сервисов и не проверяет их выдачу: доступность функций, стоимость и лимиты уточняйте перед использованием.
 
+## Отдельные статьи о ботах
+
+| Бот | Отдельная статья | Запуск |
+| --- | --- | --- |
+| VOID BOT | [Читать о VOID BOT](void-bot.md) | [Открыть VOID BOT](https://probiva.bot/go/start_void) |
+| Vector BOT | [Читать о Vector BOT](vector-bot.md) | [Открыть Vector BOT](https://probiva.bot/go/start_vector) |
+| SHERLOCK BOT | [Читать о SHERLOCK BOT](sherlock-bot-launch.md) | [Открыть SHERLOCK BOT](https://probiva.bot/go) |
+| Telelog / Funstat | [Читать о Telelog / Funstat](telelog-funstat.md) | [Открыть Telelog / Funstat](https://probiva.bot/go/start_telelog) |
+| Dyxless | [Читать о Dyxless](dyxless-duhless.md) | [Открыть Dyxless](https://probiva.bot/go/start_duhless) |
+| ENIGMA SEARCH BOT | [Читать о ENIGMA SEARCH BOT](enigma-search-bot.md) | [Открыть ENIGMA SEARCH BOT](https://probiva.bot/go/start_enigma) |
+
 ## Статьи
 
 | № | Руководство |
@@ -49,7 +60,6 @@
 - Использовать собственные данные или учебные примеры.
 - Исправлять неточности при появлении проверяемых сведений.
 
-Все внешние ссылки в статьях ведут на каталог BOT-PROBIVA.ONLINE. Внутренние ссылки служат навигацией по справочнику.
+Ссылки каталога ведут на BOT-PROBIVA.ONLINE. В шести отдельных статьях о ботах добавлены индивидуальные ссылки запуска на probiva.bot. Внутренние ссылки служат навигацией по справочнику.
 
-Последняя редакция: 2026-09-27.
-
+Последняя редакция: 2026-09-28.
